@@ -19,5 +19,3 @@
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
                     </picture>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luka&theme=dark&show_icons=true
