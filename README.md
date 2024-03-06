@@ -6,7 +6,7 @@
 - ✉ You can contact me here davidtkeshelashvili0@gmail.com
 - 👨‍💻 Grinding Everyday To Success
 
-  <a href="https://www.facebook.com/luka.navrozashvili.1/" target="_blank" rel="noreferrer">
+  <a href="https://www.facebook.com/dato.tyeshelashvili.14" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" />
